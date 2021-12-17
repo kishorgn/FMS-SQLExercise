@@ -1,0 +1,25 @@
+1. Display passenger name who has a 'e' as second letter in their name
+2. Display the name of the youngest passenger.
+3. Display the name of the passenger, date of birth and age.
+4. Display the number of flights leaving Kolkata.
+5. Display the name of city where the number of flights leaving and reaching is the same.
+6. Display the name of the city which has flight source but no destination.
+7. Display the dates on which flight 1 and 4 is flying.
+8. Display the number of passenger in each flight. Use column alias “PassCount”.
+9. Display the name and date of birth of passengers who are senior citizen (age>=60).
+10. Display the booking id having the highest number of passengers.
+11. Display the booking id (ticket) and the total cost for the booking. Use column alias “Total Fare”.
+12. Display the booking id (ticket) and the total cost for the booking. Use column alias “Total Fare”. Consider giving a rebate of 50% to senior citizen (age>=60).
+13. Display the city receiving the maximum number of flights.
+14. Display the passenger’s name having more than 1 booking.
+15. Display flightid with no of booking.
+16. Display the passenger (name only) who booked ticket on the day of flight for flight no 1.
+17. Display flights having the same source and destination.
+18. Display the record in the following format. Column alias
+“Booking Summary”
+Hints:
+“ Ticket No:1 Flight id: 1 Total Passengers :3 Total Fare:6000”
+“Ticket No:2 Flight id: 3 Total Passengers :1 Total Fare :2500”
+19. Flight No: 2 have been delayed for 4 hrs due to fog. Display flight id , flight date and a new column “flight new date”, which displays the new timing.
+20. Display passenger name , date of birth sorted by the month of birth .(Jan ? Dec).
+-------------------------------------------------------------------------------------------------
